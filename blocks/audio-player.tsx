@@ -1,6 +1,5 @@
 import { FileBlockProps } from "@githubnext/blocks";
 import { Box, Text } from "@primer/react";
-import "./index.css";
 
 export default function ExampleFileBlock(props: FileBlockProps) {
   const { context } = props;
