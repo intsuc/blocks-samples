@@ -1,0 +1,14 @@
+{
+  "allow": [
+    {
+      "owner": "intsuc",
+      "repo": "blocks-samples",
+      "id": "fild-block"
+    },
+    {
+      "owner": "intsuc",
+      "repo": "blocks-samples",
+      "id": "folder-block"
+    }
+  ]
+}
